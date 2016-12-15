@@ -12,8 +12,8 @@ right = 0
 points = 0
 underScores = ""
 
-questions = ["1. How to select something from table `table_name`","2. How to insert something into table `table_name` with the values 'name','last_name','salary','bio'","3.How to get the highest value","4. How to get the lowest value","5. How to get the average value","6. How to sum all the values"]
-queries = ["SELECT", "INSERT", "MAX", "MIN", "CREATE", "VARCHAR", "DELETE", "DESC", "ASC", "UPDATE", "JOINS", "BETWEEN", "UPDATE", "PRIMARY_KEY"]
+questions = ["In what year was Python created?","How do you combine rows in SQL?","What does <div> stand for?","Who invented HTML?","How many characters does the ASCII standard contain?","What is error code 502?"]
+queries = ["1989", "JOINS", "DIVISION", "TIM BERNERS LEE", "128", "BAD GATEWAY", "DELETE", "DESC", "ASC", "UPDATE", "JOINS", "BETWEEN", "UPDATE", "PRIMARY_KEY"]
 usedLetters = []
 
 while True:
